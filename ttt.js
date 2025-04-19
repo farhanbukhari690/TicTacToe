@@ -35,7 +35,7 @@ button.addEventListener('click', () => {
 });
 
 function showWinner(pos1Value) {
-    message.innerHTML = `Winner of this game is : <span class="winner">${pos1Value}</span>`;
+    message.innerHTML = `Winner of this game is :  ${pos1Value}`;
     disableBoxes();
 }
 
