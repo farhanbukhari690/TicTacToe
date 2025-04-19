@@ -163,19 +163,11 @@
     .react {
         color: green;
     }
-    .winner {
-        color: rgb(255, 55, 165);
-        font-size: 2rem;
-        text-align: center;
-        margin-top: 1rem;
-    }
+    
     .message {
         color: rgb(51, 252, 24);
         font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
         font-size: 1.7rem;
-        display: flex;
-        justify-content: center;
-        align-items: center;
         margin-top: 1rem;
         text-align: center;
     }
